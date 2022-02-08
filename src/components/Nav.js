@@ -1,5 +1,11 @@
 import navitem from "./Navitem";
 
 function Nav() {
-    return
+    return (
+        <div className="Nav">
+            <NavItem/>
+        </div>
+    );
 }
+
+export default Nav;
