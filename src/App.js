@@ -6,7 +6,7 @@ function App() {
         <div className='container flex mx-auto items-center'>
           <div className='w-3/12'>
             <div className=' text-white text-center uppercase font-semibold'>
-              Private WEB
+              WIW
             </div>
           </div>
           <div className='w-6/12'>
